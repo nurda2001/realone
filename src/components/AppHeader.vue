@@ -41,9 +41,7 @@
 			menuItems(){
 				return[
                        {
-                       	icon: 'visibility',
-                       	title: 'Read',
-                       	route: '/books'
+                       	icon: 'visibility', title: 'Read', route: '/books'
                        },
                          {
                        	icon: 'extension',
