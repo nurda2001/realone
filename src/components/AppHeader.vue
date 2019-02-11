@@ -15,7 +15,7 @@
 		<v-toolbar v-if="show"  app color="white">
 			<v-toolbar-side-icon class="hidden-md-and-up" @click.stop="drawer = !drawer"></v-toolbar-side-icon>
 			<router-link to="/" tag="span" style=" cursor: pointer">
-			<v-toolbar-title v-text="'English In Aktau'"></v-toolbar-title>
+			<v-toolbar-title v-text="'NewSmartOrigin'"></v-toolbar-title>
 		</router-link>
 			<v-spacer></v-spacer>
 			<v-toolbar-items class="hidden-sm-and-down">
