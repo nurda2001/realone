@@ -23,7 +23,6 @@
 					<v-icon left v-html="item.icon"></v-icon>
 					{{item.title}}
 				</v-btn>
-				<v-btn>Hi</v-btn>
 			</v-toolbar-items>
 		</v-toolbar>
 	</div>	
@@ -41,7 +40,9 @@
 			menuItems(){
 				return[
                        {
-                       	icon: 'visibility', title: 'Read', route: '/books'
+                       	icon: 'visibility', 
+                       	title: 'Read', 
+                       	route: '/books'
                        },
                          {
                        	icon: 'extension',
