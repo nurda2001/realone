@@ -1,6 +1,8 @@
 <template>
 	<div>
-		<h1>Books</h1>
+	 <div class="main">
+		<h1>Read The Latest Articles</h1>
+		</div>
 		<div class="uk-child-width-1-2@s uk-grid-match" uk-grid>
     <div>
         <div class="uk-card uk-card-hover uk-card-body">
@@ -39,5 +41,7 @@
 
 
 <style scoped>
-	
+	.main{
+	padding:15px;
+	}
 </style>
