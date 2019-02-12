@@ -6,7 +6,7 @@
 		<div class="uk-child-width-1-2@s uk-grid-match" uk-grid>
     <div>
         <div class="uk-card uk-card-hover uk-card-body">
-            <h3 class="uk-card-title">Hover</h3>
+            <h3 class="uk-card-title">Article</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
         </div>
     </div>
